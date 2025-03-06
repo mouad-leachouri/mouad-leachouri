@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 💼 I'm currently an engineering student at CentraleSupélec, France.
+- 📫 How to reach me: https://www.linkedin.com/in/mouad-leachouri-b5b367213/
+
 <!--
 **mouad-leachouri/mouad-leachouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
